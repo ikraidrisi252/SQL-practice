@@ -1,33 +1,27 @@
-# SQL Practice — LeetCode Solutions
+# SQL Practice 📊
 
-A curated collection of SQL solutions for LeetCode practice problems. This repository automatically tracks progress and syncs solutions using [LeetSync](https://github.com/393231/LeetSync).
+This repository contains my solutions to various SQL coding problems, primarily sourced from platforms like LeetCode. The solutions are automatically synced and tracked here using **LeetSync**.
 
----
+## 📂 Problem Directory
 
-## 📌 Repository Overview
+| Problem Folder | Description | Status / Performance |
+| :--- | :--- | :--- |
+| [175-combine-two-tables](https://github.com/ayushi0618/SQL-practice/tree/main/175-combine-two-tables) | Combine Two Tables | Synced via LeetSync |
+| [176-second-highest-salary](https://github.com/ayushi0618/SQL-practice/tree/main/176-second-highest-salary) | Second Highest Salary | Synced via LeetSync |
+| [181-employees-earning-more-than-their-managers](https://github.com/ayushi0618/SQL-practice/tree/main/181-employees-earning-more-than-their-managers) | Employees Earning More Than Their Managers | Synced via LeetSync |
+| [1153-product-sales-analysis-i](https://github.com/ayushi0618/SQL-practice/tree/main/1153-product-sales-analysis-i) | Product Sales Analysis I | Synced via LeetSync |
+| [1258-article-views-i](https://github.com/ayushi0618/SQL-practice/tree/main/1258-article-views-i) | Article Views I | Synced via LeetSync |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ayushi0618/SQL-practice/tree/main/1509-replace-employee-id-with-the-unique-identifier) | Replace Employee ID With The Unique Identifier | Synced via LeetSync |
+| [1827-invalid-tweets](https://github.com/ayushi0618/SQL-practice/tree/main/1827-invalid-tweets) | Invalid Tweets | Synced via LeetSync |
+| [1908-recyclable-and-low-fat-products](https://github.com/ayushi0618/SQL-practice/tree/main/1908-recyclable-and-low-fat-products) | Recyclable and Low Fat Products | Synced via LeetSync |
+| [584-find-customer-referee](https://github.com/ayushi0618/SQL-practice/tree/main/584-find-customer-referee) | Find Customer Referee | Synced via LeetSync |
+| [595-big-countries](https://github.com/ayushi0618/SQL-practice/tree/main/595-big-countries) | Big Countries | Synced via LeetSync |
+| [620-not-boring-movies](https://github.com/ayushi0618/SQL-practice/tree/main/620-not-boring-movies) | Not Boring Movies | Synced via LeetSync |
 
-This repository serves as a personal log for practicing SQL queries, mastering database concepts, and optimizing query performance on LeetCode.
+## 🚀 Purpose
 
-- **Platform:** [LeetCode](https://leetcode.com/)
-- **Language:** SQL (MySQL / PostgreSQL / MS SQL Server)
-- **Sync Tool:** LeetSync
+- To build consistency in solving database and SQL queries.
+- To optimize query performance and track execution metrics.
+- To maintain a structured archive of problem-solving progress.
 
----
-
-## 📂 Folder Structure
-
-Each folder corresponds to a LeetCode SQL problem, containing the solution file and problem-specific details:
-
-```text
-SQL-practice/
-│
-├── 197-rising-temperature/
-├── 584-find-customer-referee/
-├── 595-big-countries/
-├── 1153-product-sales-analysis-i/
-├── 1258-article-views-i/
-├── 1509-replace-employee-id-with-the-unique-identifier/
-├── 1724-customer-who-visited-but-did-not-make-any-transactions/
-├── 1801-average-time-of-process-per-machine/
-├── 1827-invalid-tweets/
-└── 1908-recyclable-and-low-fat-products/
+*Feel free to explore the folders to check out individual queries and approaches!*
