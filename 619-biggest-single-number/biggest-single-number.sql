@@ -1,7 +1,6 @@
-select max(num) as num
+select max(case when cnt = 1 then num end) as num
 from (
-    select num
+    select num, count(num) as cnt
     from MyNumbers
     group by num
-    having count(num) = 1
-) as single_numbers;
+) t;
